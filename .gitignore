@@ -37,5 +37,10 @@
 *.out
 *.app
 
+# Compiled C++ binaries in problems/ (Linux extension-less executables)
+problems/*
+!problems/*/
+!problems/*.cpp
+
 # debug information files
 *.dwo
