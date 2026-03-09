@@ -30,6 +30,7 @@
             "args": [
                 "/Zi",
                 "/EHsc",
+                "/utf-8",
                 "/nologo",
                 "/Fo${workspaceFolder}\\build\\",
                 "/Fd${workspaceFolder}\\build\\vc.pdb",
