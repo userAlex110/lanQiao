@@ -39,3 +39,18 @@
 
 # debug information files
 *.dwo
+
+# Local build directories (Windows/Linux)
+build/
+bin/
+
+# Additional MSVC artifacts
+*.idb
+*.ipdb
+*.iobj
+
+# Common IDE/OS transient files
+.vscode/*.log
+.vscode/ipch/
+.history/
+.DS_Store
